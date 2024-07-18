@@ -1,0 +1,1 @@
+<h1 align="center">Instalador Whaticket KS Solados</h1>
